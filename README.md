@@ -1,5 +1,5 @@
-- 👋 Salut je suis Lined04
-- 👀 Je suis intéressé par le développement
-- 🌱 J'apprends le JavaScript et un peu le php
-- 🎈 Je suis administrateur sur Flivario-skyblock => https://dsc.gg/ktGkyEWtDv
-- 📫 Discord : ! Lined#8844
+- 👋Salut je suis Lined04
+- 👀Je suis intéressé par le développement
+- 🌱J'apprends le JavaScript et un peu le php
+- 🎈Je suis administrateur sur Flivario-skyblock => https://dsc.gg/flivario
+- 📫Discord : ! Lined#8844
